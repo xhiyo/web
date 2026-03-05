@@ -1,28 +1,7 @@
-import { MapPin, Phone, Clock, Instagram, , Mail } from 'lucide-react';
+import { MapPin, Phone, Clock, Instagram,  Mail } from 'lucide-react';
 import googleMapsImage from './googlemaps.jpg';
 
-const contactInfo = [
-  {
-    icon: MapPin,
-    title: 'Lokasi',
-    content: 'Jl. Jombang Raya, Pondok Kacang Timur'
-  },
-  {
-    icon: Phone,
-    title: 'Telepon',
-    content: '0822-2140-6634'
-  },
-  {
-    icon: Clock,
-    title: 'Jam Buka',
-    content: 'Setiap Hari: 07.00 - 18.00 WIB'
-  },
-  {
-    icon: Mail,
-    title: 'Email',
-    content: 'cakbadim1@gmail.com'
-  }
-];
+
 
 const socialMedia = [
   {
