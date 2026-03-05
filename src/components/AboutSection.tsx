@@ -1,4 +1,4 @@
-import logo from "./Foto Soto Buka Bersama.jpeg";
+import logo from "./Foto Soto Buka bersama.jpeg";
 import logo1 from "./Logo.jpeg"
 import { Award, Users, Clock, Heart } from 'lucide-react';
 
