@@ -1,4 +1,4 @@
-import { MapPin, Phone, Clock, Instagram,  Mail } from 'lucide-react';
+import {  Instagram} from 'lucide-react';
 import googleMapsImage from './googlemaps.jpg';
 
 
