@@ -1,4 +1,4 @@
-import { Menu, Phone, MapPin } from 'lucide-react';
+import { Menu, Phone } from 'lucide-react';
 import { useState } from 'react';
 import logo from "./Logo.jpeg";
 
